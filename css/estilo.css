@@ -1,0 +1,31 @@
+.logo {
+    height: 70px;
+    width: 70px;
+}
+.cartao {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.titulo {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cards {
+    height: 285px;
+    width: 285px;
+}
+.banner {
+    height: 700px;
+    width: 100%;
+}
+.card-body {
+    flex-direction: column;
+    justify-content: center;
+}
+.nota {
+    color: red;
+}
